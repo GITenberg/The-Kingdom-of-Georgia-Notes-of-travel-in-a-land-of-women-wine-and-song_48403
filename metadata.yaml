@@ -1,10 +1,16 @@
 _repo: The-Kingdom-of-Georgia-Notes-of-travel-in-a-land-of-women-wine-and-song_48403
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48403-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Wardrop, Oliver
     gutenberg_agent_id: '44780'
     url: http://www.gutenberg.org/2009/agents/44780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48403#The-Kingdom-of-Georgia-Notes-of-travel-in-a-land-of-women-wine-and-song
 gutenberg_issued: '2015-03-04'
 gutenberg_type: Text
 identifiers:
